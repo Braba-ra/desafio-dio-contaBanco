@@ -1,18 +1,26 @@
-## Getting Started
+# Desafio *ContaBanco*, uma parceria com a *DIO*.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+    Nesse projeto fui desafiada a criar uma conta de banco com os seguintes atributos:
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+| Nome |  Agência  | Saldo |
+|:-----|:--------:|------:|
+| David   | `875-3` | $350.000 |
+| Beatriz   |  `067-8`  | $800.000 |
+| Christianne |  `987-4`| $1.000.000 |
+| Bárbara |   `864-3` | $1.500.000 |
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Os dados devem ser inseridos via terminal sendo que o usuário receberá as seguintes mensagens:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+     - Por favor, digite o nome do cliente:
+     - Digite o número da agência: 
+     - Digite o número da conta:
+     
+     
+> Após todas as informações terem sido inseridas, o sistema deverá exibir a seguinte mensagem:
 
-## Dependency Management
+**👋** Olá [Nome do cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agência], conta [Número], e seu saldo [Saldo] já está disponível para saque.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Foi um prazer participar.
+
