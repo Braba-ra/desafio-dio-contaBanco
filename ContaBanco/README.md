@@ -22,5 +22,5 @@ Os dados devem ser inseridos via terminal sendo que o usuário receberá as segu
 
 **👋** Olá [Nome do cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agência], conta [Número], e seu saldo [Saldo] já está disponível para saque.
 
-Foi um prazer participar.
+Foi um prazer participar! 
 
